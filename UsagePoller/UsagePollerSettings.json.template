@@ -1,0 +1,31 @@
+{
+  "EmailSettings": {
+    "SMTPUser": "",
+    "SMTPKey": "",
+    "SMTPServer": "",
+    "SMTPPort": 587,
+    "SMTPEnableSSL": true
+  },
+  "GPServer": {
+    "ServerName": "",
+    "UserID": "",
+    "Password": "",
+    "DatabaseName": ""
+  },
+  "LogServer": {
+    "DatabaseName": "",
+    "UserID": "",
+    "Password": "",
+    "ServerName": ""
+  },
+  "ReportingDetails": {
+    "SleepTime": 300,
+    "MaxIdleSessionLength": 75,
+    "LongSessionEmailString": "",
+    "ReportSenderEmailString": "",
+    "ReportSenderNameString": ""
+  },
+  "ProgramSettings": {
+    "Exclusions": "" // Comma seperated list of users to exclude from being logged out i.e. "sa, admin"
+  }
+}

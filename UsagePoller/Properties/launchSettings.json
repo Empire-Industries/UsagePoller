@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "UsagePoller": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "SETTINGS_FILE": "UsagePollerSettings.Development.json",
+        "USER_EMAIL": "nbooth@empireindustries.com",
+        "DELETE_LONG_SESSIONS": "false"
+      }
+    }
+  }
+}
